@@ -32,3 +32,10 @@ The final model was deployed as a web application using Streamlit, allowing user
 
 ## Usage
 Instructions on how to run the Streamlit application locally and interact with the deployed model.
+
+<img width="817" alt="Screenshot 2567-05-01 at 21 51 12" src="https://github.com/bright-arparwut/ML-FakeNewCLS/assets/124503010/c21e92cd-3b07-4a20-920c-8ec56bd323a6">
+
+it's obviously this model isn't the perfect one😂 
+
+but I’m all geared up for more coding, more learning, and, yes, even more facepalming as I improve this model.
+
